@@ -1,5 +1,5 @@
 def main():
-    print("Main App Running, hello")
+    print("Main App Running, Ohaiyo")
 
 def println():
     print("Java Function")
