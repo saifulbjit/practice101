@@ -1,4 +1,5 @@
 def main():
     print("Main App Running")
 
-main()
+if __name__ == '__main__':
+    main()
