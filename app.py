@@ -1,5 +1,5 @@
 def main():
-    print("Main App Running, Ohaiyo")
+    print("Main App Running, Ohaiyo Gozaimasu")
 
 
 
