@@ -1,7 +1,7 @@
 def main():
     print("Main App Running, Konnichiwa")
 
-    print("Main App Running, Ohaiyo Gozaimasu")
+    print("Main App Running, Ohaiyo Goza")
 
 
 
