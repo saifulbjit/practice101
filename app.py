@@ -1,6 +1,9 @@
 def main():
     print("Main App Running, Konnichiwa")
 
+    print("Main App Running, Ohaiyo Gozaimasu")
+
+
 
 
 def println():
